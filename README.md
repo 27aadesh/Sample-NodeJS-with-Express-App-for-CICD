@@ -4,7 +4,7 @@
 
 ---
 
-<p align="center"> This is a sample NodeJS with Express app which anyone can use for learning CICD using various platforms like Jenkins, Azure Pipelines, GitLab, Etc.
+<p> This is a sample NodeJS with Express app which anyone can use for learning CICD using various platforms like Jenkins, Azure Pipelines, GitLab, Etc.
     <br> 
 </p>
 
