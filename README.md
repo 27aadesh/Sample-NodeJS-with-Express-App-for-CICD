@@ -1,6 +1,6 @@
 
 
-<h3 align="center">Sample NodeJS with Express App for CICD</h3>
+<h1>Sample NodeJS with Express App for CICD</h1>
 
 ---
 
@@ -28,7 +28,7 @@ By Default it will run on http://localhost:3000
 
 After running the Node Server when you go to /users path, you will get the user details in a JSON format.
 
-
+![alt text](https://github.com/27aadesh/Sample-NodeJS-with-Express-App-for-CICD/blob/master/screenshots/1.JPG)
 
 
 ### Prerequisites
